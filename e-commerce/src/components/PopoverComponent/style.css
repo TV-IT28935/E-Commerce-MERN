@@ -1,0 +1,9 @@
+.popover_container {
+}
+.popover_profile {
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+}
+.popover_logout {
+}
